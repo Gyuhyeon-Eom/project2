@@ -4,10 +4,10 @@
 
 ## II. Datasets
 
-### 데이터 전처리 
+### Data preprocessing
 
 ## III. Methodology 
 
-## IV. Main 
+# Main 
 
-## V. Result
+# Result
